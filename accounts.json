@@ -1,18 +1,418 @@
 [
-  {
-    "uid": "4591157501",
-    "password": "9BBEBDAF4710DA6B782D76A3F49B3AAC9439EA43CEF8AD21DEF58F35786CD652"
-  },
-  {
-    "uid": "4596980566",
-    "password": "AD79EA02F03827E6C43EE530B072C2ACCC0D88E607A523D88AC712DBAAC3E03F"
-  },
-  {
-    "uid": "4585417625",
-    "password": "BA77C7D5E362C4A2CBEC5DFA149983E5C684E8AE09053E77A7B6F6659A9209E5"
-  },
-  {
-    "uid": "4455209338",
-    "password": "CB5DA2E2167CE3CE1B6A9E5ED283221A32AA621D05EE69B45EE987ECBDBBF7CC"
-  }
+    {
+        "uid": 7950978830,
+        "password": "GeneratedBy@ChannelLinkBox_bSlFQd1hSKrK_RiduanCodex",
+        "account_id": "18349270481",
+        "name": "Chhotu20691",
+        "region": "IND",
+        "date_created": "2026-09-27 10:45:04"
+    },
+    {
+        "uid": 7950978910,
+        "password": "GeneratedBy@ChannelLinkBox_acO2yTnxvFml_RiduanCodex",
+        "account_id": "18349270570",
+        "name": "Chhotu61715",
+        "region": "IND",
+        "date_created": "2026-09-27 10:45:04"
+    },
+    {
+        "uid": 7950978431,
+        "password": "GeneratedBy@ChannelLinkBox_u2SqylUF1AeH_RiduanCodex",
+        "account_id": "18349270485",
+        "name": "Chhotu89375",
+        "region": "IND",
+        "date_created": "2026-09-27 10:45:04"
+    },
+    {
+        "uid": 7950978868,
+        "password": "GeneratedBy@ChannelLinkBox_onV1bqheDFpG_RiduanCodex",
+        "account_id": "18349270519",
+        "name": "Chhotu33660",
+        "region": "IND",
+        "date_created": "2026-09-27 10:45:04"
+    },
+    {
+        "uid": 7950979003,
+        "password": "GeneratedBy@ChannelLinkBox_XGPWkBcdova1_RiduanCodex",
+        "account_id": "18349270600",
+        "name": "Chhotu41729",
+        "region": "IND",
+        "date_created": "2026-09-27 10:45:04"
+    },
+    {
+        "uid": 7950978950,
+        "password": "GeneratedBy@ChannelLinkBox_5QqTmkHX2zrD_RiduanCodex",
+        "account_id": "18349270555",
+        "name": "Chhotu90246",
+        "region": "IND",
+        "date_created": "2026-09-27 10:45:04"
+    },
+    {
+        "uid": 7950978883,
+        "password": "GeneratedBy@ChannelLinkBox_7bAy5TQPDsfA_RiduanCodex",
+        "account_id": "18349270523",
+        "name": "Chhotu21449",
+        "region": "IND",
+        "date_created": "2026-09-27 10:45:04"
+    },
+    {
+        "uid": 7950978816,
+        "password": "GeneratedBy@ChannelLinkBox_QX8Sw4zJNjsb_RiduanCodex",
+        "account_id": "18349270428",
+        "name": "Chhotu10888",
+        "region": "IND",
+        "date_created": "2026-09-27 10:45:04"
+    },
+    {
+        "uid": 7950978797,
+        "password": "GeneratedBy@ChannelLinkBox_0OMARduh0Gsc_RiduanCodex",
+        "account_id": "18349270513",
+        "name": "Chhotu63846",
+        "region": "IND",
+        "date_created": "2026-09-27 10:45:04"
+    },
+    {
+        "uid": 7950978839,
+        "password": "GeneratedBy@ChannelLinkBox_T15Rim4Jai4H_RiduanCodex",
+        "account_id": "18349270487",
+        "name": "Chhotu14716",
+        "region": "IND",
+        "date_created": "2026-09-27 10:45:04"
+    },
+    {
+        "uid": 7950978488,
+        "password": "GeneratedBy@ChannelLinkBox_v7cISQzkQMVo_RiduanCodex",
+        "account_id": "18349270477",
+        "name": "Chhotu84038",
+        "region": "IND",
+        "date_created": "2026-09-27 10:45:04"
+    },
+    {
+        "uid": 7950978821,
+        "password": "GeneratedBy@ChannelLinkBox_w7mDwPet5Lyh_RiduanCodex",
+        "account_id": "18349270467",
+        "name": "Chhotu95429",
+        "region": "IND",
+        "date_created": "2026-09-27 10:45:04"
+    },
+    {
+        "uid": 7950978876,
+        "password": "GeneratedBy@ChannelLinkBox_uHYTH067vGcu_RiduanCodex",
+        "account_id": "18349270569",
+        "name": "Chhotu24827",
+        "region": "IND",
+        "date_created": "2026-09-27 10:45:04"
+    },
+    {
+        "uid": 7950987186,
+        "password": "GeneratedBy@ChannelLinkBox_SYpvGaMmJIpn_RiduanCodex",
+        "account_id": "18349282113",
+        "name": "Chhotu25041",
+        "region": "IND",
+        "date_created": "2026-09-27 10:46:00"
+    },
+    {
+        "uid": 7950987256,
+        "password": "GeneratedBy@ChannelLinkBox_CvKx4OYwFd1e_RiduanCodex",
+        "account_id": "18349282134",
+        "name": "Chhotu94188",
+        "region": "IND",
+        "date_created": "2026-09-27 10:46:01"
+    },
+    {
+        "uid": 7950987407,
+        "password": "GeneratedBy@ChannelLinkBox_EYnF28ZJv5xA_RiduanCodex",
+        "account_id": "18349282177",
+        "name": "Chhotu47925",
+        "region": "IND",
+        "date_created": "2026-09-27 10:46:01"
+    },
+    {
+        "uid": 7950987462,
+        "password": "GeneratedBy@ChannelLinkBox_Qxgdu3tbMZb9_RiduanCodex",
+        "account_id": "18349282174",
+        "name": "Chhotu49575",
+        "region": "IND",
+        "date_created": "2026-09-27 10:46:01"
+    },
+    {
+        "uid": 7950987250,
+        "password": "GeneratedBy@ChannelLinkBox_Y9JcQSyj5WoZ_RiduanCodex",
+        "account_id": "18349282205",
+        "name": "Chhotu22422",
+        "region": "IND",
+        "date_created": "2026-09-27 10:46:01"
+    },
+    {
+        "uid": 7950987429,
+        "password": "GeneratedBy@ChannelLinkBox_Krxgrt2e11sU_RiduanCodex",
+        "account_id": "18349282206",
+        "name": "Chhotu45995",
+        "region": "IND",
+        "date_created": "2026-09-27 10:46:01"
+    },
+    {
+        "uid": 7950987411,
+        "password": "GeneratedBy@ChannelLinkBox_9u1NvJYZ1NYf_RiduanCodex",
+        "account_id": "18349282242",
+        "name": "Chhotu65463",
+        "region": "IND",
+        "date_created": "2026-09-27 10:46:01"
+    },
+    {
+        "uid": 7950987397,
+        "password": "GeneratedBy@ChannelLinkBox_i9V2GALTm04V_RiduanCodex",
+        "account_id": "18349282257",
+        "name": "Chhotu65835",
+        "region": "IND",
+        "date_created": "2026-09-27 10:46:01"
+    },
+    {
+        "uid": 7950987437,
+        "password": "GeneratedBy@ChannelLinkBox_lgFDSLcKzwpZ_RiduanCodex",
+        "account_id": "18349282271",
+        "name": "Chhotu63174",
+        "region": "IND",
+        "date_created": "2026-09-27 10:46:01"
+    },
+    {
+        "uid": 7950987571,
+        "password": "GeneratedBy@ChannelLinkBox_xk0SPOtUcJFp_RiduanCodex",
+        "account_id": "18349282276",
+        "name": "Chhotu25030",
+        "region": "IND",
+        "date_created": "2026-09-27 10:46:01"
+    },
+    {
+        "uid": 7950987514,
+        "password": "GeneratedBy@ChannelLinkBox_J6APegdOufCk_RiduanCodex",
+        "account_id": "18349282300",
+        "name": "Chhotu58987",
+        "region": "IND",
+        "date_created": "2026-09-27 10:46:01"
+    },
+    {
+        "uid": 7950987551,
+        "password": "GeneratedBy@ChannelLinkBox_yKiQCJE8Kzqv_RiduanCodex",
+        "account_id": "18349282299",
+        "name": "Chhotu97532",
+        "region": "IND",
+        "date_created": "2026-09-27 10:46:01"
+    },
+    {
+        "uid": 7950995282,
+        "password": "GeneratedBy@ChannelLinkBox_R53dmosBlDTq_RiduanCodex",
+        "account_id": "18349293739",
+        "name": "Chhotu98781",
+        "region": "IND",
+        "date_created": "2026-09-27 10:47:00"
+    },
+    {
+        "uid": 7950995404,
+        "password": "GeneratedBy@ChannelLinkBox_51u0zDmy0GVF_RiduanCodex",
+        "account_id": "18349293781",
+        "name": "Chhotu56093",
+        "region": "IND",
+        "date_created": "2026-09-27 10:47:00"
+    },
+    {
+        "uid": 7950995266,
+        "password": "GeneratedBy@ChannelLinkBox_HrTgRQQxAfp1_RiduanCodex",
+        "account_id": "18349293786",
+        "name": "Chhotu14669",
+        "region": "IND",
+        "date_created": "2026-09-27 10:47:00"
+    },
+    {
+        "uid": 7950995396,
+        "password": "GeneratedBy@ChannelLinkBox_eEZE7lsmrhXy_RiduanCodex",
+        "account_id": "18349293788",
+        "name": "Chhotu25163",
+        "region": "IND",
+        "date_created": "2026-09-27 10:47:01"
+    },
+    {
+        "uid": 7950995605,
+        "password": "GeneratedBy@ChannelLinkBox_oWsoc0xt8db8_RiduanCodex",
+        "account_id": "18349293839",
+        "name": "Chhotu26551",
+        "region": "IND",
+        "date_created": "2026-09-27 10:47:01"
+    },
+    {
+        "uid": 7950995391,
+        "password": "GeneratedBy@ChannelLinkBox_6ANeCvJjg0js_RiduanCodex",
+        "account_id": "18349293856",
+        "name": "Chhotu68585",
+        "region": "IND",
+        "date_created": "2026-09-27 10:47:01"
+    },
+    {
+        "uid": 7950995580,
+        "password": "GeneratedBy@ChannelLinkBox_lw1M0gmit2o5_RiduanCodex",
+        "account_id": "18349293878",
+        "name": "Chhotu62582",
+        "region": "IND",
+        "date_created": "2026-09-27 10:47:01"
+    },
+    {
+        "uid": 7950995607,
+        "password": "GeneratedBy@ChannelLinkBox_HZsWlaBgy3Qx_RiduanCodex",
+        "account_id": "18349293885",
+        "name": "Chhotu40425",
+        "region": "IND",
+        "date_created": "2026-09-27 10:47:01"
+    },
+    {
+        "uid": 7950995719,
+        "password": "GeneratedBy@ChannelLinkBox_dosJmcvBAESb_RiduanCodex",
+        "account_id": "18349293909",
+        "name": "Chhotu85295",
+        "region": "IND",
+        "date_created": "2026-09-27 10:47:01"
+    },
+    {
+        "uid": 7950995595,
+        "password": "GeneratedBy@ChannelLinkBox_VtKd8Ado1ryo_RiduanCodex",
+        "account_id": "18349293891",
+        "name": "Chhotu87278",
+        "region": "IND",
+        "date_created": "2026-09-27 10:47:01"
+    },
+    {
+        "uid": 7950995804,
+        "password": "GeneratedBy@ChannelLinkBox_Z43iw3KfkIap_RiduanCodex",
+        "account_id": "18349293915",
+        "name": "Chhotu63425",
+        "region": "IND",
+        "date_created": "2026-09-27 10:47:01"
+    },
+    {
+        "uid": 7950995838,
+        "password": "GeneratedBy@ChannelLinkBox_WV0NZ20NWr5Z_RiduanCodex",
+        "account_id": "18349293994",
+        "name": "Chhotu33175",
+        "region": "IND",
+        "date_created": "2026-09-27 10:47:01"
+    },
+    {
+        "uid": 7951003373,
+        "password": "GeneratedBy@ChannelLinkBox_wCPzdSlsqk4e_RiduanCodex",
+        "account_id": "18349305123",
+        "name": "Chhotu23815",
+        "region": "IND",
+        "date_created": "2026-09-27 10:48:00"
+    },
+    {
+        "uid": 7951003446,
+        "password": "GeneratedBy@ChannelLinkBox_FEuDIR6JhrTd_RiduanCodex",
+        "account_id": "18349305137",
+        "name": "Chhotu29512",
+        "region": "IND",
+        "date_created": "2026-09-27 10:48:00"
+    },
+    {
+        "uid": 7951003376,
+        "password": "GeneratedBy@ChannelLinkBox_4NzCPVo6Y9fk_RiduanCodex",
+        "account_id": "18349305132",
+        "name": "Chhotu45692",
+        "region": "IND",
+        "date_created": "2026-09-27 10:48:00"
+    },
+    {
+        "uid": 7951003532,
+        "password": "GeneratedBy@ChannelLinkBox_PMOdR8G5MlrZ_RiduanCodex",
+        "account_id": "18349305163",
+        "name": "Chhotu44726",
+        "region": "IND",
+        "date_created": "2026-09-27 10:48:00"
+    },
+    {
+        "uid": 7951003417,
+        "password": "GeneratedBy@ChannelLinkBox_yrFsJNFHpTdE_RiduanCodex",
+        "account_id": "18349305184",
+        "name": "Chhotu91057",
+        "region": "IND",
+        "date_created": "2026-09-27 10:48:00"
+    },
+    {
+        "uid": 7951003605,
+        "password": "GeneratedBy@ChannelLinkBox_0cawaUw1V3HE_RiduanCodex",
+        "account_id": "18349305185",
+        "name": "Chhotu34698",
+        "region": "IND",
+        "date_created": "2026-09-27 10:48:00"
+    },
+    {
+        "uid": 7951003662,
+        "password": "GeneratedBy@ChannelLinkBox_AaxaSAEz8ANn_RiduanCodex",
+        "account_id": "18349305242",
+        "name": "Chhotu58590",
+        "region": "IND",
+        "date_created": "2026-09-27 10:48:00"
+    },
+    {
+        "uid": 7951003664,
+        "password": "GeneratedBy@ChannelLinkBox_tjn2jtFD0uSa_RiduanCodex",
+        "account_id": "18349305280",
+        "name": "Chhotu94099",
+        "region": "IND",
+        "date_created": "2026-09-27 10:48:01"
+    },
+    {
+        "uid": 7951003777,
+        "password": "GeneratedBy@ChannelLinkBox_3ZGKhjTsBruD_RiduanCodex",
+        "account_id": "18349305297",
+        "name": "Chhotu15158",
+        "region": "IND",
+        "date_created": "2026-09-27 10:48:01"
+    },
+    {
+        "uid": 7951003775,
+        "password": "GeneratedBy@ChannelLinkBox_Cr9r51kfTLSe_RiduanCodex",
+        "account_id": "18349305299",
+        "name": "Chhotu36805",
+        "region": "IND",
+        "date_created": "2026-09-27 10:48:01"
+    },
+    {
+        "uid": 7951003805,
+        "password": "GeneratedBy@ChannelLinkBox_PvCC7xv8GJ50_RiduanCodex",
+        "account_id": "18349305328",
+        "name": "Chhotu52067",
+        "region": "IND",
+        "date_created": "2026-09-27 10:48:01"
+    },
+    {
+        "uid": 7951003921,
+        "password": "GeneratedBy@ChannelLinkBox_BLKyevnNr3Zc_RiduanCodex",
+        "account_id": "18349305369",
+        "name": "Chhotu18589",
+        "region": "IND",
+        "date_created": "2026-09-27 10:48:01"
+    },
+    {
+        "uid": 7951003874,
+        "password": "GeneratedBy@ChannelLinkBox_P6R1nIAU69l9_RiduanCodex",
+        "account_id": "18349305365",
+        "name": "Chhotu95716",
+        "region": "IND",
+        "date_created": "2026-09-27 10:48:01"
+    },
+    {
+        "uid": 7951003950,
+        "password": "GeneratedBy@ChannelLinkBox_PNGm6jmtB2k8_RiduanCodex",
+        "account_id": "18349305382",
+        "name": "Chhotu79419",
+        "region": "IND",
+        "date_created": "2026-09-27 10:48:01"
+    },
+    {
+        "uid": 7951003951,
+        "password": "GeneratedBy@ChannelLinkBox_OpTRa54JskR8_RiduanCodex",
+        "account_id": "18349305415",
+        "name": "Chhotu50840",
+        "region": "IND",
+        "date_created": "2026-09-27 10:48:01"
+    }
 ]
